@@ -1,0 +1,7 @@
+server:
+  port: 58082
+  servlet:
+    context-path: /world-wild-news
+
+cors:
+  allowed-origins: "http://localhost:4200"
